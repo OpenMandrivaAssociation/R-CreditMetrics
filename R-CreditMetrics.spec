@@ -2,9 +2,9 @@
 %global rlibdir  %{_datadir}/R/library
 
 Name:             R-%{packname}
-Epoch:            1
+Epoch:            2
 Version:          0.0_2
-Release:          2
+Release:          1
 Summary:          Functions for calculating the CreditMetrics risk model
 Group:            Sciences/Mathematics
 License:          Unlimited
