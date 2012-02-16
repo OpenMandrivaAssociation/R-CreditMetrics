@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.0_2
-Release:          1
+Release:          2
 Summary:          Functions for calculating the CreditMetrics risk model
 Group:            Sciences/Mathematics
 License:          Unlimited
