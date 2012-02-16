@@ -8,7 +8,7 @@ Release:          1
 Summary:          Functions for calculating the CreditMetrics risk model
 Group:            Sciences/Mathematics
 License:          Unlimited
-URL:              None
+URL:              http://cran.r-project.org/web/packages/CreditMetrics/index.html
 Source0:          http://cran.r-project.org/src/contrib/Archive/CreditMetrics/CreditMetrics_0.0-1.tar.gz
 BuildArch:        noarch
 Requires:         R-core
